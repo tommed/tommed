@@ -1,4 +1,4 @@
-![](./assets/memoji.jpg)
+<img src="assets/memoji.jpg" alt="memoji in a zen pose" width="400px"/>
 
 ### Hi there 👋
 
