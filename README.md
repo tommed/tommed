@@ -1,6 +1,3 @@
-<p align="center">
-<img src="assets/memoji.jpg" alt="memoji in a zen pose" width="400px"/>
-</p>
 <h2 align="center">Hi there 👋</h2>
 
 🔭 I’m currently working on an an Enterprise-scalable automated governance system at [Vigilant](https://github.com/VigilantApps) which ensures employees are using their work privileges ethically. It's been 10yrs in the making! I mainly work in [Go](https://go.dev), [dotNET](https://dot.net), [Jupyter notebooks](https://jupyter.org/) and [elasticsearch](https://www.elastic.co/).
