@@ -66,7 +66,6 @@ Ducto is part of an ongoing open-source initiative by [@tommed](https://linkedin
 - Logos/Illustrations are Copyright 2025 Tom Medhurst, all rights reserved.
 
 ## 🟣 Coming Soon
-- ✅ CloudEvents support
 - ✅ First-class Feature Flag integration
 - ✅ Stream orchestrator service
 - ✅ Optional OTLP / Prometheus telemetry support
