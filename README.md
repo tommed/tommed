@@ -1,3 +1,5 @@
+![Ducto Logo](./assets/ducto-logo-small.png)
+
 # Ducto
 
 ## 🟣 What is Ducto?
@@ -40,7 +42,7 @@ Ducto is intended to grow into a:
    - Policy-driven data transformers
    - Real-time telemetry augmentation
 1. Building block for the Ducto Project Ecosystem including:
-   - [Ducto Transformer](./dsl-transformer)
+   - [Ducto Transformer](https://github.com/tommed/dsl-transformer)
    - Ducto Feature Flag Engine
 1. Ducto Stream Orchestrator
 
@@ -50,13 +52,13 @@ echo '{"foo": "bar"}' | ducto-transformer examples/simplest.json
 ```
 
 ## 📚 Documentation
-Full DSL specification and usage examples are available in [SPEC.md](dsl-transformer/SPEC.md).
+Full DSL specification and usage examples are available in [SPEC.md](https://github.com/tommed/dsl-transformer/blob/main/SPEC.md).
 
 ## 🧰 About the Author
 Ducto is part of an ongoing open-source initiative by [@tommed](https://linkedin.com/in/tommed) to bring high-quality, composable, and reusable components to data processing pipelines and system integration workflows.
 
 ## ✅ License
-[MIT License](./dsl-transformer/LICENSE)
+[MIT License](https://github.com/tommed/dsl-transformer/blob/main/LICENSE)
 
 ## 🟣 Coming Soon
 - ✅ CloudEvents support
