@@ -1,4 +1,6 @@
-![Ducto Logo](./assets/ducto-logo-small.png)
+<p align="right">
+<img alt="Ducto Logo" src="./assets/ducto-logo-small.png"/>
+</p>
 
 # Ducto
 
