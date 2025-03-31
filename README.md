@@ -1,9 +1,66 @@
-<h2 align="center">Hi there 👋</h2>
+# Ducto
 
-🔭 I’m currently working on an an Enterprise-scalable automated governance system at [Vigilant](https://github.com/VigilantApps) which ensures employees are using their work privileges ethically. It's been 10yrs in the making! I mainly work in [Go](https://go.dev), [dotNET](https://dot.net), [Jupyter notebooks](https://jupyter.org/) and [elasticsearch](https://www.elastic.co/).
+## 🟣 What is Ducto?
+**Ducto** is an open-source, modular, and declarative transformation engine designed to manipulate structured data (JSON-like objects) using simple, embeddable, and powerful instructions.
 
-I also invented the _only_ known ethical method of recording end-2-end encrypted instant messenger conversations (e.g. WhatsApp, WeChat, BBME, Telegram, Signal), which has been used throughout the banking industry (particularly trading banks), for employee governance and compliance reasons via our specialised resellers and partners.
+Ducto aims to bridge the gap between raw event streams, ETL pipelines, and dynamic data-driven systems by providing a flexible **Domain Specific Language (DSL)** that allows you to:
+- Filter, mutate, and reshape incoming data
+- Perform conditional logic, mappings, and transformations
+- Integrate seamlessly into any Go-based CLI, service, or pipeline
 
-As you can probably tell, ethical behaviour of employees who have _'special access'_ to digital assets/systems is something of particular personal interest to me. I believe companies are responsible for ensuring their staff do not misuse company systems for their own personal or financial gain. We owe a duty of care (and respect) to the people whose details are held within our data systems!
+## ✨ Why Ducto?
+- ⚙ Composable - Build complex transformations by combining small, understandable instructions
+- 🚀 Optimized for Real-World ETL - Designed to handle event streams, API payloads, and telemetry data at scale
+- 📦 Lightweight - Single-purpose library with minimal dependencies
+- ✅ Testable - Full suite of unit, integration, and end-to-end tests
+- 🟣 Extensible - Designed with operators and instructions as first-class citizens
+- 🌐 OpenTelemetry Ready - Hooks for observability without polluting your logic
+- 🟢 Serverless-First - Ducto is designed to run:
+  - Locally as a CLI
+  - Inside serverless environments (Cloud Run, Lambda, etc.)
+  - Or embedded directly into your services
 
-🌱 I’m also really interested in nutrition and general health. Did you know for example that [daily use of mouthwash can reduce your gym gains by up to 60%](https://is.gd/AYIwxr)?!! 😵
+## 🛠️ Features
+- Declarative instruction set
+- DSL versioning & strict validation
+- Conditional logic (if, exists, and, or)
+- Array mapping (map)
+- Simple operators (set, copy, delete, replace, merge)
+- JSON conversion operators (to_json, from_json)
+- Error handling modes (fail, ignore, collect)
+- Pluggable metrics and observability (optional)
+
+## 💡 Project Vision
+Ducto is intended to grow into a:
+
+1. High-quality open-source toolkit for data transformation and processing
+1. Foundation for more advanced tools:
+   - Event stream processors
+   - Feature-flag aware routing engines
+   - Policy-driven data transformers
+   - Real-time telemetry augmentation
+1. Building block for the Ducto Project Ecosystem including:
+   - [Ducto Transformer](./dsl-transformer)
+   - Ducto Feature Flag Engine
+1. Ducto Stream Orchestrator
+
+## 📦 Getting Started
+```bash
+echo '{"foo": "bar"}' | ducto-transformer examples/simplest.json
+```
+
+## 📚 Documentation
+Full DSL specification and usage examples are available in [SPEC.md](dsl-transformer/SPEC.md).
+
+## 🧰 About the Author
+Ducto is part of an ongoing open-source initiative by [@tommed](https://linkedin.com/in/tommed) to bring high-quality, composable, and reusable components to data processing pipelines and system integration workflows.
+
+## ✅ License
+[MIT License](./dsl-transformer/LICENSE)
+
+## 🟣 Coming Soon
+- ✅ CloudEvents support
+- ✅ First-class Feature Flag integration
+- ✅ Stream orchestrator service
+- ✅ Optional OTLP / Prometheus telemetry support
+- ✅ Ready-to-deploy serverless bundles
