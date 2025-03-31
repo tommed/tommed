@@ -54,7 +54,7 @@ echo '{"foo": "bar"}' | ducto-transformer examples/simplest.json
 ```
 
 ## 📚 Documentation
-Full DSL specification and usage examples are available in [SPEC.md](https://github.com/tommed/dsl-transformer/blob/main/SPEC.md).
+Full DSL specification is available in [specs.md](https://github.com/tommed/dsl-transformer/blob/main/docs/specs.md).
 
 ## 🧰 About the Author
 Ducto is part of an ongoing open-source initiative by [@tommed](https://linkedin.com/in/tommed) to bring high-quality, composable, and reusable components to data processing pipelines and system integration workflows.
