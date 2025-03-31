@@ -60,7 +60,10 @@ Full DSL specification and usage examples are available in [SPEC.md](https://git
 Ducto is part of an ongoing open-source initiative by [@tommed](https://linkedin.com/in/tommed) to bring high-quality, composable, and reusable components to data processing pipelines and system integration workflows.
 
 ## ✅ License
-[MIT License](https://github.com/tommed/dsl-transformer/blob/main/LICENSE)
+## License
+
+- Code is all licensed under [MIT](https://github.com/tommed/dsl-transformer/blob/main/LICENSE)
+- Logos/Illustrations are Copyright 2025 Tom Medhurst, all rights reserved.
 
 ## 🟣 Coming Soon
 - ✅ CloudEvents support
