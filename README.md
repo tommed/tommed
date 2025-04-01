@@ -50,7 +50,14 @@ Ducto is intended to grow into a:
 
 ## 📦 Getting Started
 ```bash
-echo '{"foo": "bar"}' | ducto-transformer examples/simplest.json
+# Install
+go install github.com/tommed/ducto-dsl@latest
+
+# Lint
+ducto-dsl lint examples/instructions.json
+
+# Run
+echo '{"foo": "bar"}' | ducto-dsl examples/instructions.json
 ```
 
 ## 📚 Documentation
