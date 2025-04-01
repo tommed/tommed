@@ -46,7 +46,7 @@ Ducto is intended to grow into a:
 1. Building block for the Ducto Project Ecosystem including:
    - [Ducto Transformer](https://github.com/tommed/ducto-dsl)
    - Ducto Feature Flag Engine
-1. Ducto Stream Orchestrator
+   - Ducto Stream Orchestrator
 
 ## 📦 Getting Started
 ```bash
