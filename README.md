@@ -46,7 +46,7 @@ Ducto is intended to grow into a:
   
 Building block for the Ducto Project Ecosystem including:
 
-[Ducto Transformer](https://github.com/tommed/ducto-dsl)
+[Ducto DSL (Core Transformer)](https://github.com/tommed/ducto-dsl)
 
 ![Ducto DSL](./assets/ducto-dsl-small.png)
 
