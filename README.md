@@ -43,10 +43,19 @@ Ducto is intended to grow into a:
    - Feature-flag aware routing engines
    - Policy-driven data transformers
    - Real-time telemetry augmentation
-1. Building block for the Ducto Project Ecosystem including:
-   - [Ducto Transformer](https://github.com/tommed/ducto-dsl)
-   - Ducto Feature Flag Engine
-   - [Ducto Stream Orchestrator](https://github.com/tommed/ducto-orchestrator)
+  
+Building block for the Ducto Project Ecosystem including:
+
+[Ducto Transformer](https://github.com/tommed/ducto-dsl)
+
+![Ducto DSL](./assets/ducto-dsl-small.png)
+
+[Ducto Stream Orchestrator](https://github.com/tommed/ducto-orchestrator)
+
+![Ducto Orchestrator](./assets/ducto-orchestrator-logo-small.jpg)
+
+Ducto Feature Flag Engine
+_(Coming Soon)_
 
 ## 📦 Getting Started
 ```bash
