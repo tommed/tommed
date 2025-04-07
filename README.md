@@ -54,8 +54,9 @@ Building block for the Ducto Project Ecosystem including:
 
 ![Ducto Orchestrator](./assets/ducto-orchestrator-logo-small.jpg)
 
-Ducto Feature Flag Engine
-_(Coming Soon)_
+[Ducto Feature Flag Engine](https://github.com/tommed/ducto-featureflags)
+
+![Ducto Feature Flags](./assets/ducto-featureflags-logo-small.png)
 
 ## 📦 Getting Started
 ```bash
