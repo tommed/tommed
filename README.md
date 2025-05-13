@@ -58,6 +58,10 @@ Building block for the Ducto Project Ecosystem including:
 
 ![Ducto Feature Flags](./assets/ducto-featureflags-logo-small.png)
 
+[Ducto Faker](https://github.com/tommed/ducto-faker)
+
+![Ducto Faker](./assets/ducto-faker-small-logo.png)
+
 ## 📦 Getting Started
 ```bash
 # Install
