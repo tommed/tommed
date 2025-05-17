@@ -48,19 +48,30 @@ Building block for the Ducto Project Ecosystem including:
 
 [Ducto DSL (Core Transformer)](https://github.com/tommed/ducto-dsl)
 
-![Ducto DSL](./assets/ducto-dsl-small.png)
+<picture>
+  <img alt="Ducto DSL" src="./assets/ducto-dsl-small.png">
+</picture>
 
+---
 [Ducto Stream Orchestrator](https://github.com/tommed/ducto-orchestrator)
 
-![Ducto Orchestrator](./assets/ducto-orchestrator-logo-small.jpg)
+<picture>
+  <img alt="Ducto Orchestrator" src="./assets/ducto-orchestrator-logo-small.jpg">
+</picture>
 
+---
 [Ducto Feature Flag Engine](https://github.com/tommed/ducto-featureflags)
 
-![Ducto Feature Flags](./assets/ducto-featureflags-logo-small.png)
+<picture>
+  <img alt="Ducto Feature Flags" src="./assets/ducto-featureflags-logo-small.png">
+</picture>
 
+---
 [Ducto Faker](https://github.com/tommed/ducto-faker)
 
-![Ducto Faker](./assets/ducto-faker-small-logo.png)
+<picture>
+  <img alt="Ducto Faker" src="./assets/ducto-faker-small-logo.png">
+</picture>
 
 ## 📦 Getting Started
 ```bash
